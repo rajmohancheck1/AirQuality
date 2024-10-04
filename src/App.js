@@ -7,9 +7,9 @@ import AirQuality from './components/AirQuality';
 function App() {
   return (
     <div className="App">
-      {/* <h1>Air Quality App</h1>
+      {/* <h1>Air Quality App</h1>*/}
      
-      <AirQuality/> */}
+      <AirQuality/> 
       
     </div>
   );
