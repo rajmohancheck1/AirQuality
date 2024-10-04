@@ -1,0 +1,106 @@
+/* src/components/AirQuality.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-size: cover;
+    background-attachment: fixed; /* Make background fixed */
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .air-quality-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.0); /* Slightly transparent for better visibility */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  h2 {
+    color: #007bff;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .search-form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .search-input {
+    width: 60%;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #007bff;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+  
+  .search-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .search-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .air-quality-details {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 8px;
+   
+    background-color: rgba(255, 255, 255, 0.2); /* Transparent background */
+  }
+  
+  .charts-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+  }
+  
+  .chart {
+    flex: 1;
+    margin: 0 10px;
+    background-color: rgba(255, 255, 255, 0.3); /* Transparent background */
+    padding: 10px;
+    border-radius: 8px;
+  }
+  ul {
+    list-style-type: none; /* Removes bullet points */
+    padding: 0;           /* Removes padding */
+    margin: 0;            /* Removes margin */
+    font-size: 20px;
+
+}
+  
+  .city-photos-container {
+    margin-top: 30px;
+    background-color: rgba(255, 255, 255, 0.3); /* Transparent background */
+  }
+  
+  .city-photos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .city-photo {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
