@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rajmohancheck1/AirQuality.git/static/css/main.6d162e09.css",
+    "main.js": "/rajmohancheck1/AirQuality.git/static/js/main.60719157.js",
+    "static/js/453.60ef070f.chunk.js": "/rajmohancheck1/AirQuality.git/static/js/453.60ef070f.chunk.js",
+    "index.html": "/rajmohancheck1/AirQuality.git/index.html",
+    "main.6d162e09.css.map": "/rajmohancheck1/AirQuality.git/static/css/main.6d162e09.css.map",
+    "main.60719157.js.map": "/rajmohancheck1/AirQuality.git/static/js/main.60719157.js.map",
+    "453.60ef070f.chunk.js.map": "/rajmohancheck1/AirQuality.git/static/js/453.60ef070f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d162e09.css",
+    "static/js/main.60719157.js"
+  ]
+}
